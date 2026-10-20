@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammadbilalnayyar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:muhammadbilalnayyar05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=bilalnayyar&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fbilalnayyar&label=PROFILE%20VIEWS&labelColor=%23555555&countColor=%238a2be2&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
