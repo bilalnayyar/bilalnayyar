@@ -1,128 +1,229 @@
-<h1 align="center">Hi there 👋, I'm Muhammad Bilal Nayyar</h1>
-<h3 align="center">Senior AI Engineer · LLMs · Agentic AI · RAG · Computer Vision</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8a2be2&height=220&section=header&text=Muhammad%20Bilal%20Nayyar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20AI%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLMs%20%E2%80%A2%20Computer%20Vision&descAlignY=56&descSize=17" width="100%" alt="Header"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+with+LangGraph+%26+CrewAI;LLMs+%E2%80%A2+RAG+%E2%80%A2+Speech+AI+%E2%80%A2+Computer+Vision;8%2B+years+shipping+production+AI;Turning+business+problems+into+AI+products" alt="Typing SVG"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammadbilalnayyar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:muhammadbilalnayyar05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:muhammadbilalnayyar05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.facebook.com/bilal.nayyar.3/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fbilalnayyar&label=PROFILE%20VIEWS&labelColor=%23555555&countColor=%238a2be2&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
 
-### 💫 About Me
+## 👨‍💻 About Me
 
-AI Engineer from **Lahore, Pakistan** with **8 years of experience** building production-grade AI systems: LLM applications, RAG pipelines, multi-agent workflows, computer vision and high-performance backend services that solve real problems.
+~~~python
+class BilalNayyar:
+    def __init__(self):
+        self.role       = "Senior AI Engineer"
+        self.location   = "Lahore, Pakistan 🇵🇰"
+        self.experience = "8+ years building production AI"
+        self.education  = ["MS Data Science · UMT", "BS Information Technology · PUCIT"]
 
-- 🤖 Currently building **LLM-powered recommendation engines** and **agentic AI platforms** as a Senior AI Engineer
-- 🕸️ I design **multi-agent systems** with **CrewAI**, **LangGraph**, **LangChain** and **MCP**
-- 🔍 I build **RAG / Adaptive RAG** pipelines with embeddings and vector search
-- 🎙️ I work on **speech AI**: streaming ASR (Whisper / Faster-Whisper), TTS, voice cloning and AI dubbing
-- 👁️ I've shipped **computer vision** systems: number-plate recognition (ANPR), face recognition and real-time video analytics
-- 🎓 **MS Data Science** (UMT, Lahore) · **BS Information Technology** (PUCIT, Lahore)
-- 📫 Reach me at **muhammadbilalnayyar05@gmail.com**
+    def currently_building(self):
+        return [
+            "LLM-powered fintech recommendation engine",
+            "Voice-first AI incident management platform",
+        ]
 
----
+    def expertise(self):
+        return [
+            "LLMs & Agentic AI (CrewAI, LangGraph, MCP)",
+            "RAG / Adaptive RAG with vector search",
+            "Speech AI: streaming ASR, TTS, voice cloning",
+            "Computer Vision: ANPR, face recognition, video analytics",
+            "Production backends with FastAPI, Celery & Redis",
+        ]
 
-### 💻 Tech Stack
-
-**Languages & Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**LLMs & GenAI**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LoRA Fine--tuning](https://img.shields.io/badge/LoRA%20Fine--tuning-6E40C9?style=for-the-badge)
-
-**Agentic AI & RAG**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20%2F%20Adaptive%20RAG-FF6F00?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![PandasAI](https://img.shields.io/badge/PandasAI-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-**Speech AI**
-
-![Whisper](https://img.shields.io/badge/Whisper%20%2F%20Faster--Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Coqui TTS](https://img.shields.io/badge/Coqui%20TTS-2E7D32?style=for-the-badge)
-![Voice Cloning](https://img.shields.io/badge/Voice%20Cloning%20%26%20Dubbing-7B1FA2?style=for-the-badge)
-
-**Machine Learning & Computer Vision**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO%20v7%2Fv8%2Fv9-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![InsightFace](https://img.shields.io/badge/InsightFace%20%2F%20dlib-333333?style=for-the-badge)
-![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Cloud, DevOps & Data**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![RunPod](https://img.shields.io/badge/RunPod-673AB7?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+    def ask_me_about(self):
+        return ["Multi-agent systems", "Text-to-SQL", "RAG pipelines", "Edge AI"]
+~~~
 
 ---
 
-### 🚀 What I've Built
+## 🏆 Impact
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-8a2be2?style=for-the-badge" alt="8+ years"/>
+  <img src="https://img.shields.io/badge/Face%20Recognition-99.9%25%20Accuracy-2ea44f?style=for-the-badge" alt="99.9% accuracy"/>
+  <img src="https://img.shields.io/badge/Prior%20Auth%20Automation-80%25%20Faster-ff6f00?style=for-the-badge" alt="80% faster"/>
+  <img src="https://img.shields.io/badge/Medical%20Extraction-94%25%20Accuracy-0078d4?style=for-the-badge" alt="94% accuracy"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,tensorflow,opencv,docker,azure,postgres,mysql,redis,elasticsearch,raspberrypi,git,github&perline=13" alt="Core stack"/>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="170"><b>🧠 LLMs & GenAI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+      <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+      <img src="https://img.shields.io/badge/LoRA%20Fine--tuning-6E40C9?style=flat-square" alt="LoRA"/>
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat-square" alt="Prompt Engineering"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 Agentic AI & RAG</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph"/>
+      <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square" alt="CrewAI"/>
+      <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
+      <img src="https://img.shields.io/badge/RAG%20%2F%20Adaptive%20RAG-FF6F00?style=flat-square" alt="RAG"/>
+      <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" alt="Pinecone"/>
+      <img src="https://img.shields.io/badge/Text--to--SQL-336791?style=flat-square" alt="Text-to-SQL"/>
+      <img src="https://img.shields.io/badge/PandasAI-150458?style=flat-square&logo=pandas&logoColor=white" alt="PandasAI"/>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎙️ Speech AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Whisper%20%2F%20Faster--Whisper-412991?style=flat-square&logo=openai&logoColor=white" alt="Whisper"/>
+      <img src="https://img.shields.io/badge/Streaming%20ASR-0A66C2?style=flat-square" alt="Streaming ASR"/>
+      <img src="https://img.shields.io/badge/Coqui%20TTS-2E7D32?style=flat-square" alt="Coqui TTS"/>
+      <img src="https://img.shields.io/badge/Voice%20Cloning%20%26%20Dubbing-7B1FA2?style=flat-square" alt="Voice Cloning"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>👁️ ML & Vision</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+      <img src="https://img.shields.io/badge/YOLO%20v7%2Fv8%2Fv9-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO"/>
+      <img src="https://img.shields.io/badge/InsightFace%20%2F%20dlib-333333?style=flat-square" alt="InsightFace"/>
+      <img src="https://img.shields.io/badge/PaddleOCR-0062B0?style=flat-square" alt="PaddleOCR"/>
+      <img src="https://img.shields.io/badge/NLP-8E44AD?style=flat-square" alt="NLP"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ Backend & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+      <img src="https://img.shields.io/badge/RunPod-673AB7?style=flat-square" alt="RunPod"/>
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square" alt="SQL Server"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚨 OnTrack AI</h3>
+      <sub>AI-powered incident management</sub>
+      <p>Report incidents by voice or chat. Live transcription, structured extraction, severity triage and routing, plus <b>Talk-to-Database</b> (Text-to-SQL → charts).</p>
+      <img src="https://img.shields.io/badge/LLM%20Agents-8a2be2?style=flat-square"/> <img src="https://img.shields.io/badge/Streaming%20ASR-0A66C2?style=flat-square"/> <img src="https://img.shields.io/badge/Text--to--SQL-336791?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💳 AI Fintech Recommender</h3>
+      <sub>AI recommendation engine</sub>
+      <p>Matches users to the best-fit financial products with <b>explainable, personalised</b> recommendations using LLMs and embedding-based matching.</p>
+      <img src="https://img.shields.io/badge/Embeddings-8a2be2?style=flat-square"/> <img src="https://img.shields.io/badge/Vector%20Search-000000?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 AI Dubbing Studio</h3>
+      <sub>Voice localization platform</sub>
+      <p>Dubs and clones voices across languages while <b>preserving speaker identity and emotion</b>, with lip sync and async processing.</p>
+      <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square"/> <img src="https://img.shields.io/badge/Coqui%20TTS-2E7D32?style=flat-square"/> <img src="https://img.shields.io/badge/Celery%20%2B%20Redis-DC382D?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💊 Pharmacy Multi-Agent Copilot</h3>
+      <sub>Agentic healthcare assistant</sub>
+      <p>Agent router delegating across specialised agents for medication info, refills and scheduling, plus <b>call → STT → LLM</b> summaries.</p>
+      <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 Prior-Auth Automation</h3>
+      <sub>Insurance letter generation</sub>
+      <p>Generates prior-authorization letters with dynamic RAG over insurer policies. <b>80% faster turnaround</b>, <b>94% extraction accuracy</b>.</p>
+      <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍💼 Facial Attendance System</h3>
+      <sub>Production face recognition</sub>
+      <p>Face-recognition attendance deployed at scale with <b>99.9% recognition accuracy</b> and automated daily reporting.</p>
+      <img src="https://img.shields.io/badge/InsightFace-333333?style=flat-square"/> <img src="https://img.shields.io/badge/MTCNN-5C3EE8?style=flat-square"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>➕ More projects</b></summary>
+<br/>
 
 | Project | What it does | Key tech |
 |---|---|---|
-| 🚨 **OnTrack AI — Incident Management** | Lets users report incidents by voice or chat; live transcription, structured extraction, severity triage and routing, plus Talk-to-Database (Text-to-SQL → charts) | LLM Agents, Streaming ASR, Text-to-SQL, FastAPI |
-| 💳 **AI Fintech Recommendation Engine** | Matches users to the best-fit financial products with explainable, personalised recommendations | LLMs, Embeddings, Vector Search, RAG, FastAPI |
-| 🎬 **AI Dubbing & Voice Localization** | Dubs and clones voices across languages while preserving speaker identity and emotion | Whisper, Coqui TTS, Voice Cloning, Lip Sync, Celery, Redis |
-| 📞 **AI Call Analytics Platform** | Transcribes customer-service calls and generates summaries, sentiment and compliance insights | Faster-Whisper, CrewAI, Multi-agent, SQL Server |
-| 🩺 **AI Medical Intake Agents** | Medical intake, red-flag screening, specialty routing and preliminary clinical reports | CrewAI, Azure OpenAI, Ollama, RunPod |
-| 💊 **Pharmacy Multi-Agent Copilot** | Agent router delegating across specialised agents, with call → STT → LLM summaries | CrewAI, LangGraph, MCP, n8n, VannaSQL, Pinecone |
-| 📄 **Prior-Authorization Letter Automation** | Generates insurance prior-auth letters with dynamic RAG; **80% faster turnaround**, **94% extraction accuracy** | CrewAI, LangChain, RAG, n8n, Azure |
-| 🧾 **Financial Document Parser** | Extracts structured data from U.S. tax forms and bank statements, fully automated | LLMs, LangChain, OCRmyPDF, n8n, PostgreSQL |
-| 🤖 **Clinical Q&A Chatbots** | Domain chatbots with guardrails, memory and LoRA fine-tuned models | LangChain, OpenAI, NeMo Guardrails, Pinecone, T5/Mistral + LoRA |
-| 🚗 **ANPR / Number-Plate Recognition** | Detects and reads vehicle number plates on edge devices in real time | YOLOv7, PaddleOCR, OpenCV, Raspberry Pi |
-| 🧑‍💼 **Facial Attendance System** | Face-recognition attendance with **99.9% accuracy** in production | InsightFace, MTCNN, dlib, TensorFlow |
+| 📞 **AI Call Analytics** | Transcribes customer-service calls into summaries, sentiment and compliance insights | Faster-Whisper, CrewAI, SQL Server |
+| 🩺 **AI Medical Intake Agents** | Intake, red-flag screening, specialty routing and preliminary clinical reports | CrewAI, Azure OpenAI, Ollama, RunPod |
+| 🧾 **Financial Document Parser** | Extracts structured data from U.S. tax forms and bank statements | LLMs, LangChain, OCRmyPDF, n8n |
+| 🤖 **Clinical Q&A Chatbots** | Domain chatbots with guardrails, memory and LoRA fine-tuned models | LangChain, NeMo Guardrails, Pinecone, LoRA |
+| 🚗 **ANPR / Number-Plate Recognition** | Reads vehicle number plates in real time on edge devices | YOLOv7, PaddleOCR, Raspberry Pi |
 | 🎥 **Retail Video Analytics** | Footfall, demographics, mask compliance and intrusion/weapon detection | YOLOv8, ByteTrack, FastAPI |
 
----
-
-### 💼 Experience
-
-- **Senior AI Engineer** · Phaedra Solutions · *Aug 2026 – Present*
-- **Senior AI Engineer** · Synaptik · *Oct 2025 – Aug 2026*
-- **Data Scientist** · One Machine Software · *Sep 2023 – Oct 2025*
-- **AI Engineer** · GCS · *Mar 2020 – Aug 2023*
-- **Software Engineer** · Kreios Technologies · *May 2018 – Feb 2020*
+</details>
 
 ---
 
-### 📜 Certifications
+## 💼 Experience
+
+| | Role | Company | Period |
+|:-:|---|---|---|
+| 🟣 | **Senior AI Engineer** | Phaedra Solutions | Aug 2026 – Present |
+| 🔵 | **Senior AI Engineer** | Synaptik | Oct 2025 – Aug 2026 |
+| 🟢 | **Data Scientist** | One Machine Software | Sep 2023 – Oct 2025 |
+| 🟠 | **AI Engineer** | GCS | Mar 2020 – Aug 2023 |
+| ⚪ | **Software Engineer** | Kreios Technologies | May 2018 – Feb 2020 |
+
+<details>
+<summary><b>📜 Certifications</b></summary>
+<br/>
 
 - Machine Learning A-Z: Hands-On Python & R in Data Science
 - Power BI A-Z: Hands-On Power BI Training for Data Science
 - Python A-Z: Python for Data Science with Real Exercises
 
+</details>
+
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=bilalnayyar&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=bilalnayyar&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
+
+
+
+---
+
+<p align="center">
+  <b>🤝 Open to collaborating on Agentic AI, RAG and Speech AI projects</b><br/>
+  <a href="https://www.linkedin.com/in/muhammadbilalnayyar">LinkedIn</a> ·
+  <a href="mailto:muhammadbilalnayyar05@gmail.com">Email</a> ·
+  <a href="https://www.facebook.com/bilal.nayyar.3/">Facebook</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8a2be2&height=120&section=footer" width="100%" alt="Footer"/>
