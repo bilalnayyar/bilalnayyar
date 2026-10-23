@@ -179,7 +179,7 @@ I'm a **Senior AI Engineer** from **Lahore, Pakistan** with **8+ years** of expe
 | | Role | Company | Period |
 |:-:|---|---|---|
 | 🟣 | **Senior AI Engineer** | Phaedra Solutions | Aug 2026 – Present |
-| 🔵 | **Senior AI Engineer** | Synaptik | Oct 2025 – Aug 2026 |
+| 🔵 | **Lead AI Engineer** | Synaptik | Oct 2025 – Aug 2026 |
 | 🟢 | **Data Scientist** | One Machine Software | Sep 2023 – Oct 2025 |
 | 🟠 | **AI Engineer** | GCS | Mar 2020 – Aug 2023 |
 | ⚪ | **Software Engineer** | Kreios Technologies | May 2018 – Feb 2020 |
