@@ -15,32 +15,19 @@
 
 ## 👨‍💻 About Me
 
-~~~python
-class BilalNayyar:
-    def __init__(self):
-        self.role       = "Senior AI Engineer"
-        self.location   = "Lahore, Pakistan 🇵🇰"
-        self.experience = "8+ years building production AI"
-        self.education  = ["MS Data Science · UMT", "BS Information Technology · PUCIT"]
+I'm a **Senior AI Engineer** from **Lahore, Pakistan** with **8+ years** of experience turning business problems into production AI products, from LLM agents and RAG systems to speech AI and computer vision.
 
-    def currently_building(self):
-        return [
-            "LLM-powered fintech recommendation engine",
-            "Voice-first AI incident management platform",
-        ]
+- 🤖 **Agentic AI:** multi-agent systems with CrewAI, LangGraph and MCP
+- 🔍 **RAG:** retrieval pipelines with embeddings, vector search and Adaptive RAG
+- 🎙️ **Speech AI:** live transcription, text-to-speech, voice cloning and AI dubbing
+- 👁️ **Computer Vision:** number-plate recognition, face recognition and video analytics
+- ⚙️ **Production backends:** FastAPI, Celery and Redis on Azure and Docker
 
-    def expertise(self):
-        return [
-            "LLMs & Agentic AI (CrewAI, LangGraph, MCP)",
-            "RAG / Adaptive RAG with vector search",
-            "Speech AI: streaming ASR, TTS, voice cloning",
-            "Computer Vision: ANPR, face recognition, video analytics",
-            "Production backends with FastAPI, Celery & Redis",
-        ]
-
-    def ask_me_about(self):
-        return ["Multi-agent systems", "Text-to-SQL", "RAG pipelines", "Edge AI"]
-~~~
+> 🔭 **Currently building:** an LLM-powered fintech recommendation engine and a voice-first AI incident management platform
+>
+> 💬 **Ask me about:** multi-agent systems, Text-to-SQL, RAG pipelines and edge AI
+>
+> 🎓 **Education:** MS Data Science (UMT) · BS Information Technology (PUCIT)
 
 ---
 
