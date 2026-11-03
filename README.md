@@ -11,6 +11,15 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fbilalnayyar&label=PROFILE%20VIEWS&labelColor=%23555555&countColor=%238a2be2&style=for-the-badge" alt="Profile views"/>
 </p>
 
+<p align="center">
+  <a href="#%E2%80%8D-about-me">About</a> •
+  <a href="#-impact">Impact</a> •
+  <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-experience">Experience</a> •
+  <a href="#-github-activity">Activity</a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
