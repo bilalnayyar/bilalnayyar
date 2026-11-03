@@ -115,6 +115,16 @@ I'm a **Senior AI Engineer** from **Lahore, Pakistan** with **8+ years** of expe
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
     </td>
   </tr>
+  <tr>
+    <td align="center"><b>📞 VoIP & Telephony</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Asterisk-F68F1E?style=flat-square&logo=asterisk&logoColor=white" alt="Asterisk"/>
+      <img src="https://img.shields.io/badge/Issabel%20PBX-0B6FB6?style=flat-square" alt="Issabel PBX"/>
+      <img src="https://img.shields.io/badge/SIP-555555?style=flat-square" alt="SIP"/>
+      <img src="https://img.shields.io/badge/Video%20Calling-7B1FA2?style=flat-square" alt="Video Calling"/>
+      <img src="https://img.shields.io/badge/Biometric%20Verification-2E7D32?style=flat-square" alt="Biometric Verification"/>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -162,6 +172,14 @@ I'm a **Senior AI Engineer** from **Lahore, Pakistan** with **8+ years** of expe
       <sub>Production face recognition</sub>
       <p>Face-recognition attendance deployed at scale with <b>99.9% recognition accuracy</b> and automated daily reporting.</p>
       <img src="https://img.shields.io/badge/InsightFace-333333?style=flat-square"/> <img src="https://img.shields.io/badge/MTCNN-5C3EE8?style=flat-square"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📞 Secure Prison Calling System</h3>
+      <sub>Punjab Prisons Foundation · Asterisk (Issabel) VoIP</sub>
+      <p>Configured SIP and <b>speed-dial calls unlocked by biometric verification</b>, plus monitored video calls. Real-time face verification confirms the authorized person is on the call, and AI watches for nudity, weapons or an unauthorized person joining. If anything is detected, the system <b>ends the call automatically</b> and alerts admins.</p>
+      <img src="https://img.shields.io/badge/Asterisk%20%2F%20Issabel-F68F1E?style=flat-square"/> <img src="https://img.shields.io/badge/SIP-555555?style=flat-square"/> <img src="https://img.shields.io/badge/Biometric%20Verification-2E7D32?style=flat-square"/> <img src="https://img.shields.io/badge/YOLOv9-00FFFF?style=flat-square"/> <img src="https://img.shields.io/badge/dlib%20%2F%20RetinaFace-333333?style=flat-square"/>
     </td>
   </tr>
 </table>
